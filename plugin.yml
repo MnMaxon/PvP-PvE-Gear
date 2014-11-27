@@ -1,0 +1,8 @@
+name: Player_Versus_Gear
+version: 1.1
+main: me.MnMaxon.PlayerVersusGear.Main
+commands:
+   PvG:
+      description: Displays help
+   PlayerVersusGear:
+      description: Displays help
